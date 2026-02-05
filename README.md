@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Security%20Mindset-black?style=for-the-badge&logo=shield" />
 </p>
 
-**Software Solutions Engineer** with 5+ years of experience designing and delivering scalable microservices, blockchain protocols, cloud‑native systems, and AI‑driven platforms. I specialize in building distributed architectures that are resilient, secure, and built for growth. My work spans the full SDLC from architecture and development to deployment and optimization always with a focus on reliability, performance, and clean engineering. I thrive in environments where complex systems need clarity, structure, and innovation.
+**Software Solutions Engineer** with 5+ years of experience designing and delivering scalable microservices, blockchain protocols, cloud‑native systems, and AI‑driven platforms. I specialize in building distributed architectures that are resilient, secure, and built for growth. My work spans the full SDLC from architecture and development to deployment and optimization, always with a focus on reliability, performance, and clean engineering. I thrive in environments where complex systems need clarity, structure, and innovation.
 
 ---
 
@@ -23,8 +23,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,ai,python,aws,docker,postgres,mongo,grafana,js,react,tailwind,ipfs,git,githubactions,linux&theme=light" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopikrishnanrmg)](https://github.com/gopikrishnanrmg/github-readme-stats)
 
 ---
 
