@@ -40,7 +40,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Real graph is below)
+## 🐍 Contribution Snake (Real graph is at the bottom of the page)
 <p align="center">
   <img src="https://raw.githubusercontent.com/gopikrishnanrmg/gopikrishnanrmg/output/snake.svg" />
 </p>
