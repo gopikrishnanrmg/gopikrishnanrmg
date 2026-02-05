@@ -24,13 +24,13 @@
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,ai,python,aws,docker,postgres,mongo,grafana,js,react,tailwind,ipfs,git,githubactions,linux&theme=light" />
 </p>
 
----
+<!---
 
 ## 🔥 GitHub Stats  
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gopikrishnanrmg&theme=neon-dark&hide_border=true" />
 </p>
-
+-->
 ---
 
 ## 🌌 Activity Graph  
