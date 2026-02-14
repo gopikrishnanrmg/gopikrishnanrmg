@@ -59,6 +59,6 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/gopikrishnanrmg"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/gopikrishnan-rajeev-2618a913b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
